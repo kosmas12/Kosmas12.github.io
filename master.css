@@ -1,0 +1,17 @@
+body {
+  background-image: url(backimage.jpg);
+}
+
+h1 {
+  color: #6FFFFF;
+  font-family: "Ubuntu", sans-serif;
+}
+
+p {
+  color: #45FF3F;
+  font-family: "Ubuntu", sans-serif;
+}
+
+a {
+  color: #45FF3F;
+}
